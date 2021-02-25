@@ -6,4 +6,4 @@ One of my hobbies, when I'm not pulling all-nighters or playing games, is cookin
 
 ### Assets
 
-See [ASSETS.md](https://github.com/boredhero/visual-argument-2021spring/blob/master/assets/assets.md) for a full listing of assets.
+See [ASSETS.md](https://github.com/boredhero/visual-argument-2021spring/blob/master/assets/ASSETS.md) for a full listing of assets.
