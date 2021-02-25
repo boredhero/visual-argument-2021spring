@@ -1,4 +1,4 @@
-# Cooking Lessons
+# Cooking Lessons by Noah
 
 ### Proposal
 
@@ -7,3 +7,6 @@ One of my hobbies, when I'm not pulling all-nighters or playing games, is cookin
 ### Assets
 
 See [ASSETS.md](https://github.com/boredhero/visual-argument-2021spring/blob/master/assets/ASSETS.md) for a full listing of assets.
+
+
+*Please note that this README is in an unfinished state, it requires....more....*
