@@ -6,4 +6,4 @@ Below is a complete listing of all images used in this project that were **NOT**
 
 | Filename | Source | License |
 | -------- | ------ | ------- |
-| `example.png` | [CC Search Link](https://search.creativecommons.org/) |[WTFPL](http://www.wtfpl.net/) |
+| `example.png` | [CC Search Link](https://search.creativecommons.org/) |[WTFPL](http://www.wtfpl.net/about/) |
