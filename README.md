@@ -12,3 +12,7 @@ One of my hobbies, when I'm not pulling all-nighters or playing games, is cookin
 
 See [ASSETS.md](https://github.com/boredhero/visual-argument-2021spring/blob/master/assets/ASSETS.md) for a full listing of assets.
 * I never ended up using assets other than my own.
+
+### Final Image
+
+![Final_Image](https://raw.githubusercontent.com/boredhero/visual-argument-2021spring/master/Cooking_With_Noah_Final.jpg)
