@@ -1,0 +1,19 @@
+# Final Reflection
+
+My project's goal is to convince someone that they should buy my package classes to help level up their cooking skills. Because of this, I chose to make a sort of poster that could be printed out and hung up. I was originally looking at also making some social-media sized digital assets but I ran out of time and also wasn't sure if that would fit the parameters of this assignment. I use text heavily because I'm advertizing a service for sale and it's kind of hard to sell a service without words. Originally, I wasn't sure how exactly I wanted to go about this. I started with a small paper (8.5x11) sized canvas, and ended up expanding to triple that to make more of a pamphlet/poster. I did this because I wanted to fit a lot of text and still have room for images. I also considered using external assets, but I ended up wanting to just use pictures that I took myself. I think pictures of stuff I've actually made are always going to be more representative of my services than stock images. I played with fonts for a while but ultimately settled on Source Code Variable Light and Ultra Light fonts. I considered going with something more flowy and cursive for a while but I felt it was a bit too much and kind of hard to read. I think a more fancy font might have also felt a bit intimidating as I'm trying to appeal to people with little to no pre-existing skills here. I also just love Source Code fonts in general. I think they look clean, especially the light and ultra-light versions. I decided have headers and numbers be large, and points of emphasis such as the amount of hours for a given service and the cost be in bold for easy visibility. Some recommendations from other people that I implemented were to change the font since I started out using the default Sans Serif fonts, make it white on the dark parts of the gradient layer for better visability, and cut the backgrounds out of my food pictures to make it less noisy. I ended up spending a lot of time on the images. One thing I'm still not entirely happy about is that some of them were plates and I didn't get the whole plate in the picture. I had played around with trying to use tricks to "add" plate on the sides, but I couldn't get anything satisfactory. I did end up editing a fork out of the pasta plate though, and I think I did a pretty good job of making it inperceptable. I believe I meet the requirements for this project by using size (varying text sizes), color (two text colors), visual rhythm (gradient flow from dark to light). The message is clear that I am selling cooking lessons, and the font is stylish and not intimidating. I never ended up using external assets (I hope this is okay), but there is a note in ASSETS that all of the internally created assets are available under a CC license. I used a gradient layer on top of a background, as well as image and text layers. I used various transformation, crop, erasing, and gradient tools. My commits (at least for the last snapshot), were small and meaningful with descriptive messages. 
+
+## Snapshot 1: Initial 8.5x11 image with basic fonts and unedited images
+
+![snap_1](https://raw.githubusercontent.com/boredhero/visual-argument-2021spring/master/snapshots/Cooking_With_Noah_Snapshot_3.2.21.png)
+
+## Snapshot 2: Expanded to large canvas, missing a lot of images and text, still using basic font.
+
+![snap_2](https://raw.githubusercontent.com/boredhero/visual-argument-2021spring/master/snapshots/Cooking_With_Noah_Snapshot_3.4.21.png)
+
+## Snapshot 3/Final Image: Added cropped pictures, rest of text, changed font, added emphasis. This was a large session and I basically completed my project during these pushes. Also switched to jpeg for smaller file.
+
+![snap_3_final](https://raw.githubusercontent.com/boredhero/visual-argument-2021spring/master/Cooking_With_Noah_Final.jpg)
+
+### Link
+
+[Repo](https://github.com/boredhero/visual-argument-2021spring)
