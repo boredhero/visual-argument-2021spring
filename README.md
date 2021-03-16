@@ -2,7 +2,7 @@
 
 ### About
 
-Welcome to Cooking with Noah, where you can learn how to cook at a reasonable price. See [final_reflection.md]() for more info about the making and process of this project.
+Welcome to Cooking with Noah, where you can learn how to cook at a reasonable price. See [final_reflection.md](https://github.com/boredhero/visual-argument-2021spring/blob/master/final_reflection.md) for more info about the making and process of this project.
 
 ### Proposal
 
